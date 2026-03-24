@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$APPLICATION_HOME_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AA/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaaaaaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaaaaaa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaaaaaaaaaaaaaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aaaaaaaaaaaaaaaaaaaa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigateway-programatic-approach/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigateway-programatic-approach/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigatewaycustomfilter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apigatewaycustomfilter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distributornetwork/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/distributornetwork/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/distributornetwork02/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/distributornetwork02/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/inventorymanagement02/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/inventorymanagement02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventorymanagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inventorymanagement/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-kart-ecommerce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-kart-ecommerce/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-kart-inventory-mgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-kart-inventory-mgmt/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeignretailstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openfeignretailstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retailstore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retailstore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retailstoreresilience4j/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/retailstoreresilience4j/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudlbr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudlbr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkiapigateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkiapigateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkicloudgateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkicloudgateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkieurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/suzkieurekaserver/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/z-distributorntwk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/z-distributorntwk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/z-inventorymgmt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/z-inventorymgmt/src/main/resources" charset="UTF-8" />
   </component>
 </project>

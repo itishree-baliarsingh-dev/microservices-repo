@@ -1,0 +1,9 @@
+spring:
+  config:
+    import:
+      - configserver:http://localhost:9099
+
+  cloud:
+    config:
+      username: itishree
+      password: sairam123

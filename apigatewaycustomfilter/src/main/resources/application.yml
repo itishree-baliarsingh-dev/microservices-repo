@@ -1,0 +1,37 @@
+server:
+  port: 9097
+
+spring:
+  cloud:
+    gateway:
+      server:
+        webflux:
+          routes:
+            - id: distributor-service-route
+              uri: lb://distributor-network
+              predicates:
+                - Path=/distributor-network/**
+                - Query=size, .*
+                - Header=associateid, .*
+              filters:
+                - RewritePath=/distributor-network/?(?<segment>.*), /$\{segment}
+                - CircuitBreaker=distributor-network-cb\
+                - name: CustomAddRequest
+                  args:
+                    name: referrer
+                    value: custom
+
+            - id: inventory-mgmt-route
+              uri: lb://inventory-mgmt
+              predicates:
+                - Path=/inventory-mgmt/**
+              filters:
+                - RewritePath=/inventory-mgmt/?(?<segment>.*), /$\{segment}
+                - CircuitBreaker=inventory-mgmt-cb
+
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:9091/eureka,http://localhost:9092/eureka

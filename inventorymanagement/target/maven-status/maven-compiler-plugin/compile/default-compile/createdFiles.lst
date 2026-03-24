@@ -1,0 +1,8 @@
+inventorymgmt\dto\Stock$StockBuilder.class
+inventorymgmt\service\StockService.class
+inventorymgmt\entities\Stock.class
+inventorymgmt\dto\Stock.class
+inventorymgmt\exception\NotFoundException.class
+inventorymgmt\InventoryMgmtApplication.class
+inventorymgmt\repositories\StockRepository.class
+inventorymgmt\controller\StockController.class

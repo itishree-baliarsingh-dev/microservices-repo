@@ -1,0 +1,16 @@
+server:
+  port: 9099
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          #          uri: E:\All PROGRAMS\microservicesss\configrepo
+          uri: "https://itishree-baliarsingh-dev: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@github.com/itishree-baliarsingh-dev/suzkiconfigrepo.git"
+          default-lebel: main
+  #          refresh-rate: 80
+  security:
+    user:
+      name: itishree
+      password: sairam123

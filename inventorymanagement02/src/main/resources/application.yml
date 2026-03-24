@@ -1,9 +1,0 @@
-spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/inventorymgmt
-    username: root
-    password: root
-  jpa:
-    show-sql: true
-    generated-ddl: false
