@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/distributornetwork02" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/inventorymanagement02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configrepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/suzkiconfigrepo" vcs="Git" />
   </component>
 </project>

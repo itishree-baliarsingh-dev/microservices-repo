@@ -8,15 +8,45 @@
         <option value="$PROJECT_DIR$/inventorymanagement/pom.xml" />
         <option value="$PROJECT_DIR$/distributornetwork02/pom.xml" />
         <option value="$PROJECT_DIR$/inventorymanagement02/pom.xml" />
+        <option value="$PROJECT_DIR$/z-distributornetwork02/pom.xml" />
+        <option value="$PROJECT_DIR$/z-inventorymgmt02/pom.xml" />
+        <option value="$PROJECT_DIR$/z-distributorntwk/pom.xml" />
+        <option value="$PROJECT_DIR$/z-inventorymgmt/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/suzkieurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/retailstore/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudlbr/pom.xml" />
+        <option value="$PROJECT_DIR$/openfeignretailstore/pom.xml" />
+        <option value="$PROJECT_DIR$/retailstoreresilience4j/pom.xml" />
+        <option value="$PROJECT_DIR$/suzkicloudgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/aa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaaaaaaaaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/AA/pom.xml" />
+        <option value="$PROJECT_DIR$/suzkiapigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/apigatewaycustomfilter/pom.xml" />
+        <option value="$PROJECT_DIR$/apigateway-programatic-approach/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-kart-ecommerce/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-kart-inventory-mgmt/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/distributornetwork/pom.xml" />
+        <option value="$PROJECT_DIR$/AA/pom.xml" />
+        <option value="$PROJECT_DIR$/aa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/aaaaaaaaaaaaaaaaaaaa/pom.xml" />
+        <option value="$PROJECT_DIR$/suzkicloudgateway/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
