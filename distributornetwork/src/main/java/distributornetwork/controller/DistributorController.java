@@ -1,5 +1,6 @@
 package distributornetwork.controller;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import distributornetwork.bean.NetworkSettings;
 import distributornetwork.dto.Distributor;
 import distributornetwork.exception.NotFoundException;
@@ -20,7 +21,7 @@ public class DistributorController {
     private final NetworkSettings networkSettings;
 
     @GetMapping(value = "/{distributorCode}", produces = {MediaType.APPLICATION_JSON_VALUE})
-    public Distributor getDistributor(@PathVariable("distributorCode") String distributorCode, HttpServletRequest httpServletRequest) {
+    public Distributor getDistributor(@PathVariable("distributorCode") String distributorCode, HttpServletRequest httpServletRequest) throws JsonProcessingException {
         httpServletRequest.getHeaderNames().asIterator().forEachRemaining(s -> {
             System.out.println(s + ":" + httpServletRequest.getHeader(s));
         });
